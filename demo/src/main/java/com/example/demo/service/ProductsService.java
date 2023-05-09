@@ -1,6 +1,7 @@
-package com.example.demo.Service;
-import com.example.demo.Model.Product;
+package com.example.demo.service;
 import org.springframework.stereotype.Service;
+
+import com.example.demo.domain.Product;
 
 @Service
 public class ProductsService {

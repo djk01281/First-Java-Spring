@@ -1,11 +1,11 @@
-package com.example.demo.Web;
+package com.example.demo.controller;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 
-import com.example.demo.Service.ProductsService;
-import com.example.demo.Model.Product;
+import com.example.demo.domain.Product;
+import com.example.demo.service.ProductsService;
 
 import io.micrometer.core.ipc.http.HttpSender.Response;
 

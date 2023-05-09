@@ -1,0 +1,52 @@
+{
+    "1": {
+        "자동차경주":{
+            "status": "none",
+            "pairs": {}
+        },
+        "로또":{
+            "status": "none",
+            "pairs": {}
+        },
+        "숫자야구게임":{
+            "status": "none",
+            "pairs": {}
+        }
+    },
+    "2": {
+        "장바구니":{
+            "status": "none",
+            "pairs": {}
+        },
+        "결제":{
+            "status": "none",
+            "pairs": {}
+        },
+        "지하철노선도":{
+            "status": "none",
+            "pairs": {}
+        }
+    },
+    "3": {
+        "none":{
+            "status": "none",
+            "pairs": {}
+        }
+    },
+    "4": {
+        "성능개선":{
+            "status": "none",
+            "pairs": {}
+        },
+        "배포":{
+            "status": "none",
+            "pairs": {}
+        }
+    },
+    "5": {
+        "none":{
+            "status": "none",
+            "pairs": {}
+        }
+    }
+}
